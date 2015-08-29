@@ -30,6 +30,8 @@ to Waze :
 	code = Qrcode::Waze::Code2Map.new('R. Cosme Velho, 98 - Cosme Velho, Rio de Janeiro - RJ, Brasil', 6, 'qrcode2map.png').create_waze
 ```
 
+![alt tag](https://github.com/lebas/qrcode-waze/blob/master/qrcode2waze.png)
+
 to GoogleMaps : 
 
 ```ruby
@@ -37,6 +39,8 @@ to GoogleMaps :
 
 	code = Qrcode::Waze::Code2Map.new('R. Cosme Velho, 98 - Cosme Velho, Rio de Janeiro - RJ, Brasil', 6, 'qrcode2map.png').create_googlemaps
 ```
+
+![alt tag](https://raw.githubusercontent.com/lebas/qrcode-waze/master/qrcode2maps.png)
 
 
 ## Development
