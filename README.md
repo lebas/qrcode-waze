@@ -9,7 +9,7 @@ TODO: Delete this and the text above, and describe your gem
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'qrcode-waze', '0.2', git: "git://github.com/lebas/qrcode-waze.git"
+gem 'qrcode-waze', '0.9'
 ```
 
 And then execute:
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-to Waze : 
+to Waze :
 
 ```ruby
 	require "qrcode/waze"
@@ -32,7 +32,7 @@ to Waze :
 
 ![alt tag](https://github.com/lebas/qrcode-waze/blob/master/qrcode2waze.png)
 
-to GoogleMaps : 
+to GoogleMaps :
 
 ```ruby
 	require "qrcode/waze"

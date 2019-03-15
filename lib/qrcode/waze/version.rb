@@ -1,5 +1,5 @@
 module Qrcode
   module Waze
-    VERSION = "0.2"
+    VERSION = "0.9"
   end
 end
